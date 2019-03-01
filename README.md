@@ -1,2 +1,2 @@
-vue-cli:vue脚手架
+vue脚手架
 
