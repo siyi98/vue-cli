@@ -1,6 +1,6 @@
 <!--  -->
 <template>
-  <div>{{Home}}</div>
+  <div>{{title}}</div>
 </template>
 
 <script>
