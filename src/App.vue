@@ -1,7 +1,6 @@
 <template>
   <div id="app">
-    <router-view/>
-    <div>hello,Vue-CLi</div>
+    <router-view name="index"></router-view>
   </div>
 </template>
 
